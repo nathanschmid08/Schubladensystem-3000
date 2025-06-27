@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="md/font.png" alt="Schubladensystem 3000"/>
+  <img src="md/font.png" alt="Schubladensystem 3000" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Active-blue" alt="Status">
   <img src="https://img.shields.io/badge/Version-3000-blue" alt="Version">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
